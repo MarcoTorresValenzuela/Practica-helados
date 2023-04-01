@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header img {
+    width: 100px;
+}
+h1 {
+    font-size: 48px;
+    font-family: 'Lilita One', cursive;
+    color: #E96479;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: arial;
+    font-size: auto;
+}
+body {
+  text-align: center;
+}
+
+main img {
+    width: 400px;
+}
+main .link {
+    background-color: #7db9b6;
+    text-decoration: none;
+    border: 5px solid blue;
+    padding: 15px;
+}

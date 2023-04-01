@@ -30,3 +30,15 @@ main .link {
     border: 5px solid blue;
     padding: 15px;
 }
+
+@media only screen and (min-device-width: 480px){
+  
+}
+
+@media only screen and (min-device-width: 768px){
+  
+}
+
+@media (min-width:801px) {
+  
+}
